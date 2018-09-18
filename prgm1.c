@@ -2,10 +2,10 @@
 void main()
 {
 
-    int a,b,add=0;
+    int m,n,add=0;
     printf("enter the value for a and b\n");
-    scanf("%d%d",&a,&b);
-    add=a+b;
+    scanf("%d%d",&m,&n);
+    add=m+n;
     printf("add of 2numbers=%d",add);
     return 0;
 }
